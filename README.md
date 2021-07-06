@@ -1,4 +1,8 @@
 # CommunityServer
-1. Developement Environment Settings
-- Install Intelliji
-- Install Spring Boot with Kotlin
+## Developement Environment Settings
+1. Install Intelliji
+2. Install Spring Boot with Kotlin
+- Gradle vs Maven(https://bkim.tistory.com/13)
+
+## ETC
+- Study README markdown(https://heropy.blog/2017/09/30/markdown/)
