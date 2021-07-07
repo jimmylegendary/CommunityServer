@@ -1,6 +1,7 @@
 # CommunityServer
 ## Developement Environment Settings
 1. Install Intelliji
+  - Git bash setting(https://gwang920.github.io/intellij/intellij-gitbash/)
 2. Install Spring Boot with Kotlin
 - Gradle vs Maven(https://bkim.tistory.com/13)
 
