@@ -4,6 +4,8 @@
   - Git bash setting(https://gwang920.github.io/intellij/intellij-gitbash/)
 2. Install Spring Boot with Kotlin
 - Gradle vs Maven(https://bkim.tistory.com/13)
+3. Kotlin TDD setting
+- Use mockito-kotlin(https://github.com/mockito/mockito-kotlin)
 
 ## TODO
 1. 1st Week Features

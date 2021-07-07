@@ -24,6 +24,8 @@ dependencies {
 	implementation("org.jetbrains.kotlin:kotlin-reflect")
 	implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
 	runtimeOnly("org.mariadb.jdbc:mariadb-java-client")
+	testImplementation("io.kotlintest:kotlintest-runner-junit5:3.3.0")
+	testImplementation("org.mockito.kotlin:mockito-kotlin:3.2.0")
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
 }
 
