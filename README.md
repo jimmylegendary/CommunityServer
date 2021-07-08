@@ -15,6 +15,9 @@
 - Dummy Board
 - TDD
 
+## Reference
+- https://github.com/waterlink/kotlin-spring-boot-mvc-starter
+
 ## ETC
 - Study README markdown(https://heropy.blog/2017/09/30/markdown/)
 - Study Oauth2(https://lemontia.tistory.com/927)
